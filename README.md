@@ -1,1 +1,10 @@
 # Credit-Card-Fraud-Detection
+- Apply machine learning to detect fraudulent credit card transactions.
+- Dataset used will be from Kaggle - https://www.kaggle.com/mlg-ulb/creditcardfraud
+- A some resources to use when building out a machine learning based fraud detection system 
+  - https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_3_GettingStarted/Introduction.html
+  - https://www.researchgate.net/publication/333143698_Combining_Unsupervised_and_Supervised_Learning_in_Credit_Card_Fraud_Detection
+  - https://www.researchgate.net/publication/283349138_Calibrating_Probability_with_Undersampling_for_Unbalanced_Classification
+  - http://di.ulb.ac.be/map/adalpozz/pdf/Dalpozzolo2015PhD.pdf
+
+- Feel free to contact me about any questions you may have about this project @ david.ja.charles@gmail.com
