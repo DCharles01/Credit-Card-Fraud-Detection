@@ -7,4 +7,4 @@
   - https://www.researchgate.net/publication/283349138_Calibrating_Probability_with_Undersampling_for_Unbalanced_Classification
   - http://di.ulb.ac.be/map/adalpozz/pdf/Dalpozzolo2015PhD.pdf
 
-- Feel free to contact me about any questions you may have about this project @ david.ja.charles@gmail.com
+
